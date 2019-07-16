@@ -27,10 +27,6 @@ if(file_exists(dirname(__FILE__).'/local.php')){
 	define( 'DB_HOST', 'localhost' );
 
 }else {
-	define( 'DB_NAME', 'cemilf47_universitydata' );
-	define( 'DB_USER', 'cemilf47_wp546' );
-	define( 'DB_PASSWORD', 'L}AS]5}*)o]9' );
-	define( 'DB_HOST', 'localhost' );
 
 }
 
